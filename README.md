@@ -1,10 +1,7 @@
 
 # Object Detection with TensorFlow Hub
 
-A Google Colab project that runs pre-trained COCO 2017 object detection models (SSD MobileNet V2 / EfficientDet) on custom images using a T4 GPU.
-
-## Sample Output
-![Object Detection Output](my_photo.jpg)
+A Google Colab project that runs pre-trained COCO 2017 object detection models (SSD MobileNet V2 / EfficientDet) on custom images using a T4 GPU
 
 ## Features
 - **Pre-trained Models:** Supports switching between lightweight (`SSD MobileNet V2 FPNLite`) and high-accuracy (`EfficientDet`) architectures via TensorFlow Hub.
